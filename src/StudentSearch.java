@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 
 public class StudentSearch {
+    // This is a comment line
     public boolean studentExists(ArrayList<Student> students, String id) throws Exception {
 
         if (students.isEmpty()) {
